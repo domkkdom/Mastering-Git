@@ -1,7 +1,6 @@
 void main() {
-  print('Git ');
-  print('Git ');
-  print('Git ');
-  print('Git ');
-  print(5 * 'dmkdkkd')
+  int c = 0;
+  while (c < 120) {
+    ++c;
+  }
 }
