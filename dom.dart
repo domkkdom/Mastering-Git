@@ -1,4 +1,7 @@
 void main() {
   print('Git ');
-  print(Value);
+  print('Git ');
+  print('Git ');
+  print('Git ');
+  print(5 * 'dmkdkkd')
 }
